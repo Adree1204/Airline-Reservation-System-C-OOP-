@@ -1,5 +1,3 @@
-// ============================== README.md ==============================
-/*
 # ✈️ Airline Reservation System (C++ | OOP)
 
 A modular Airline Management System built in C++ using pure Object-Oriented Programming principles. Includes ticket booking, cancellation, and crew management with strong OOP architecture.
